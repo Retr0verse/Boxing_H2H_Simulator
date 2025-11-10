@@ -1,0 +1,14 @@
+fighter,division,age,height_cm,reach_cm,reach_to_height,stance,wins,losses,draws,ko_wins,ko_rate,last_fight_date,days_since_last_fight,titles_current,fights_last_24mo
+Saul 'Canelo' Alvarez,Super Middleweight (168),35,173,179.0,1.035,Orthodox,63,3,2,39,0.619,2025-09-13,50,—,4
+Terence 'Bud' Crawford,Super Middleweight / Jr Middleweight,38,173,188.0,1.087,Switch-hitter (Orthodox/Southpaw),42,0,0,31,0.738,2025-09-13,50,Undisputed SMW (as of Sep 2025),2
+Janibek Alimkhanuly,Middleweight (160),32,182,179.0,0.984,Southpaw,17,0,0,12,0.706,2025-04-05,211,WBO + IBF Middleweight,2
+Sebastian Fundora,Junior Middleweight (154),27,197,203.0,1.03,Southpaw,24,1,1,15,0.625,2025-07-19,106,WBC Super Welterweight,3
+Carlos Adames,Middleweight (160),31,180,185.0,1.028,Orthodox,24,1,1,18,0.75,2025-02-22,253,WBC Middleweight,2
+Chris Eubank Jr,Middleweight (160),36,180,184.0,1.022,Orthodox,35,3,0,25,0.714,2025-04-26,190,IBO Middleweight,2
+Christian Mbilli,Super Middleweight (168),30,174,183.0,1.052,Orthodox,29,0,1,24,0.828,2025-09-13,50,WBC Interim Super Middleweight,4
+Osleys Iglesias,Super Middleweight (168),27,189,,,Southpaw,14,0,0,13,0.929,2025-09-04,59,IBO Super Middleweight,2
+Diego Pacheco,Super Middleweight (168),24,193,201.0,1.041,Orthodox,24,0,0,18,0.75,2025-01-25,281,—,3
+Vergil Ortiz Jr,Junior Middleweight (154),27,178,178.0,1.0,Orthodox,23,0,0,21,0.913,2025-02-22,253,WBC Interim Super Welterweight,2
+Xander Zayas,Junior Middleweight (154),23,178,188.0,1.056,Orthodox,22,0,0,13,0.591,2025-07-26,99,WBO Super Welterweight,3
+Israil Madrimov,Junior Middleweight (154),30,174,174.0,1.0,Orthodox,10,2,1,7,0.7,2025-02-22,253,Former WBA Super Welterweight,2
+Abass Baraou,Junior Middleweight (154),31,176,,,Orthodox,17,1,0,9,0.529,2025-08-23,71,WBA Super Welterweight,3
